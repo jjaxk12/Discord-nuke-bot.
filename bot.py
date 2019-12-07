@@ -22,8 +22,4 @@ async def channels(ctx):
     guild = ctx.message.guild
     while True:
         await guild.create_text_channel('FUCK YOU CYKA BLYAT')
-@bot.command()
-async def spam_porn(ctx):
-    while True:
-        await ctx.send("https://images.sex.com/images/pinporn/2019/03/20/300/20856675.gif")
 bot.run("ur token")
