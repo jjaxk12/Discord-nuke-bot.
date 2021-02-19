@@ -24,4 +24,4 @@ async def roles(ctx):
 async def spam(ctx):
     while True:
         await ctx.send("THIS SERVER GOT PWN3D BY ME LOL @everyone @here")
-bot.run("ur token")
+bot.run(ODEwNTMyMTg0ODA0MDMyNTYy.YClA6w.m78qtLRj-VC7YehtaCA2AGBgk9Q)
